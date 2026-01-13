@@ -63,3 +63,9 @@ button {
   padding: 10px;
   border-radius: 15px;
 }
+#winner:hover {
+  background-color: yellow;
+}
+#winner:active {
+  background-color: orange;
+}
